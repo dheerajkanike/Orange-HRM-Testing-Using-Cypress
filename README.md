@@ -1,4 +1,4 @@
-# OrangeHRM Automation Testing with Cypress and Java
+# OrangeHRM Automation Testing with Cypress With Java
 
 Welcome to the OrangeHRM Automation Testing project! This repository provides  testing the OrangeHRM website using **Cypress** with  **Java**. Below is information about the project, including the tools used, structure, and how to get started.
 
